@@ -33,7 +33,7 @@ a:hover{
 h1{
     width: 30%;
     margin: 0 auto;
-    font-family: 'Sacramento', cursive;
+  //  font-family: 'Sacramento', cursive;
     font-size: 3.125em; /* 50px = 312.5%; */
     color: #66BFBF;
 }
@@ -58,6 +58,7 @@ hr{
 }
 .font{
  //   font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     color: #11999E;
     font-size: 1.5rem;
     padding-bottom: 20px;
